@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "290157869470",
+    "project_id": "nany-95afc",
+    "storage_bucket": "nany-95afc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290157869470:android:abcf271edf287c266ffe8f",
+        "android_client_info": {
+          "package_name": "com.daxno.nanny.nanny_co"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290157869470-3b4d3hj9dn67927ncbnarpho5nglemuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.daxno.nanny.nanny_co",
+            "certificate_hash": "83a76a7bb7766e44bfe1bc83c83172d3606d716a"
+          }
+        },
+        {
+          "client_id": "290157869470-juhne6lsd1l6o6lnr7skaopn92m3nc19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg1MinxwIqlSlw2hNnPyhzMkgmlEG6Njw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290157869470-juhne6lsd1l6o6lnr7skaopn92m3nc19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
